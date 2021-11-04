@@ -231,3 +231,9 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&reb
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w7844991.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6_400x400.jpeg" group-title="Canais | Noticias",Cbsn
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais | Aberto",Record
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5f/16/01/5f16019e814b9da10befa48aa49ec527.png" group-title="Canais | Esportes",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w7844991.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/530311535550152704/Q5pSZZk6_400x400.jpeg" group-title="Canais | Noticias",Cbsn
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
